@@ -1,0 +1,1 @@
+# Naive-solution-for-latin-squares
